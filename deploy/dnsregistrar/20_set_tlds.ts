@@ -8,7 +8,7 @@ const tld_map = {
   ropsten: ['xyz'],
   localhost: ['xyz'],
   hardhat: ['xyz'],
-  goerli: ['exposed', 'joy', 'market', 'netbank'],
+  goerli: ['xyz'],
   'bsc-testnet': ['exposed', 'joy', 'market', 'netbank'],
 }
 
